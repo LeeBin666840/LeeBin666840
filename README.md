@@ -30,17 +30,6 @@
 
 ---
 
-### 📊 GitHub 统计数据 (My Stats)
-
-<p align="center">
-  <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api?username=LeeBin666840&show_icons=true&theme=dark" alt="LeeBin's GitHub stats" width="48%" />
-  <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api/top-langs/?username=LeeBin666840&layout=compact&theme=dark" alt="Top Langs" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=LeeBin666840&theme=dracula" alt="LeeBin's Trophies" />
-</p>
----
 
 ### 📫 如何联系我 (Connect with me)
 
