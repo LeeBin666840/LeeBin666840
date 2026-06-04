@@ -1,5 +1,9 @@
 # Hi there, I'm Lee 👋
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3500&pause=1000&color=009688&center=true&vCenter=true&width=500&lines=Nothing+is+impossible%EF%BC%81" alt="Typing SVG" />
+</p>
+
 一个专注于**高效数据采集、自动化工程与数据管线构建**的后端/数据工程师。喜欢用代码解决复杂的数据抓取难题，热衷于构建稳定、高并发的自动化系统。
 
 ---
