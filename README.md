@@ -36,3 +36,7 @@
 
 - 💬 可以和我聊聊：Python 异步编程、复杂反爬逆向、数据管道优化、或者图像处理。
 - 📧 Email: wuyanpython@gmail.com
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1500&color=009688&center=true&vCenter=true&width=400&lines=Thanks%EF%BC%81%EF%BC%81" alt="Typing SVG" />
+</p>
