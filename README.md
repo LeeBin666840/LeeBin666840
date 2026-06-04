@@ -7,18 +7,17 @@
 ### 🛠️ 技术栈与工具箱 (Tech Stack)
 
 #### 🖥️ 核心语言与后端开发
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+[![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com/)
 
 #### 🕷️ 数据采集与网络自动化
-![Scrapy](https://img.shields.io/badge/Scrapy-60A830?style=for-the-badge&logo=scrapy&logoColor=white)
-![DrissionPage](https://img.shields.io/badge/DrissionPage-🛠️-blue?style=for-the-badge) 
-<!-- 提示：也可以替换为 Playwright/Selenium 等标准图标 -->
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+[![Scrapy](https://img.shields.io/badge/Scrapy-60A830?style=for-the-badge&logo=scrapy&logoColor=white)](https://scrapy.org/)
+[![DrissionPage](https://img.shields.io/badge/DrissionPage-2088FF?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.drissionpage.cn/)
+[![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)](https://redis.io/)
 
 #### 📊 数据科学与计算机视觉
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+[![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)](https://opencv.org/)
+[![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)](https://pytorch.org/)
 
 ---
 
