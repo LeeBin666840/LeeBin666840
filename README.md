@@ -10,33 +10,33 @@
 
 **💻 核心语言与后端开发**
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+[![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com/)
+[![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)](https://flask.palletsprojects.com/)
+[![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)](https://nextjs.org/)
 
 **🕷️ 数据采集与逆向工程**
 
-![Scrapy](https://img.shields.io/badge/Scrapy-60A839?style=for-the-badge&logo=scrapy&logoColor=white)
-![Feapder](https://img.shields.io/badge/Feapder-2B5B84?style=for-the-badge&logo=python&logoColor=white)
-![DrissionPage](https://img.shields.io/badge/DrissionPage-1E90FF?style=for-the-badge&logo=googlechrome&logoColor=white)
-![curl_cffi](https://img.shields.io/badge/curl__cffi-073551?style=for-the-badge&logo=curl&logoColor=white)
-![Frida](https://img.shields.io/badge/Frida-EF6456?style=for-the-badge&logo=frida&logoColor=white)
+[![Scrapy](https://img.shields.io/badge/Scrapy-60A839?style=for-the-badge&logo=scrapy&logoColor=white)](https://scrapy.org/)
+[![Feapder](https://img.shields.io/badge/Feapder-2B5B84?style=for-the-badge&logo=python&logoColor=white)](https://github.com/Boris-code/feapder)
+[![DrissionPage](https://img.shields.io/badge/DrissionPage-1E90FF?style=for-the-badge&logo=googlechrome&logoColor=white)](https://drissionpage.cn/)
+[![curl_cffi](https://img.shields.io/badge/curl__cffi-073551?style=for-the-badge&logo=curl&logoColor=white)](https://github.com/lexiforest/curl_cffi)
+[![Frida](https://img.shields.io/badge/Frida-EF6456?style=for-the-badge&logo=frida&logoColor=white)](https://frida.re/)
 
 **🧠 计算机视觉与大模型工程**
 
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![Ultralytics YOLO](https://img.shields.io/badge/Ultralytics_YOLO-00FFFF?style=for-the-badge&logo=yolo&logoColor=black)
-![LLM & VLM](https://img.shields.io/badge/LLM_%26_VLM-412991?style=for-the-badge&logo=openai&logoColor=white)
-![MCP & AI Bot](https://img.shields.io/badge/MCP_%26_AI_Bot-10A37F?style=for-the-badge&logo=probot&logoColor=white)
+[![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)](https://pytorch.org/)
+[![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)](https://opencv.org/)
+[![Ultralytics YOLO](https://img.shields.io/badge/Ultralytics_YOLO-00FFFF?style=for-the-badge&logo=yolo&logoColor=black)](https://github.com/ultralytics/ultralytics)
+[![LLM & VLM](https://img.shields.io/badge/LLM_%26_VLM-412991?style=for-the-badge&logo=openai&logoColor=white)](https://huggingface.co/)
+[![MCP & AI Bot](https://img.shields.io/badge/MCP_%26_AI_Bot-10A37F?style=for-the-badge&logo=probot&logoColor=white)](https://modelcontextprotocol.io/)
 
 **🗄️ 数据存储与基建部署**
 
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+[![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)](https://redis.io/)
+[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
+[![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
+[![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://www.kernel.org/)
 
 ---
 
@@ -52,4 +52,4 @@
 ### 📫 如何联系我 (Connect with me)
 
 - 💬 可以和我聊聊：**反爬逆向工程、高并发爬虫架构、多模态视觉/大模型审核管线、AI Bot 自动化工作流**。
-- 📧 Email: [2921027626@qq.com](2921027626@qq.com)
+- 📧 Email: [wuyanpython@gmail.com](mailto:wuyanpython@gmail.com)
