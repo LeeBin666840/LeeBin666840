@@ -1,42 +1,55 @@
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=4000&pause=1200&color=009688&center=true&vCenter=true&width=600&lines=Hi+there,+I'm+Lee+%F0%9F%91%8B;Nothing+is+impossible%EF%BC%81" alt="Typing SVG" />
-</p>
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Nothing+is+impossible.;Data+Acquisition+%26+Reverse+Engineering;Multimodal+AI+%26+Automation+Pipelines" alt="Typing SVG" />
+</div>
 
-一个专注于**高效数据采集、自动化工程与数据管线构建**的后端/数据工程师。喜欢用代码解决复杂的数据抓取难题，热衷于构建稳定、高并发的自动化系统。
+一个专注于**深度数据采集逆向、多模态 AI 工程化与自动化工作流构建**的后端与数据工程师。擅长攻克复杂反爬与风控体系，构建高并发分布式采集管线，并将计算机视觉、大语言模型与 Agent 自动化落地到实际内容生产与风控业务中。
 
 ---
 
 ### 🛠️ 技术栈与工具箱 (Tech Stack)
 
-#### 🖥️ 核心语言与后端开发
-[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
-[![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com/)
+**💻 核心语言与后端开发**
 
-#### 🕷️ 数据采集与网络自动化
-[![Scrapy](https://img.shields.io/badge/Scrapy-60A830?style=for-the-badge&logo=scrapy&logoColor=white)](https://scrapy.org/)
-[![DrissionPage](https://img.shields.io/badge/DrissionPage-2088FF?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.drissionpage.cn/)
-[![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)](https://redis.io/)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 
-#### 📊 数据科学与计算机视觉
-[![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)](https://opencv.org/)
-[![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)](https://pytorch.org/)
+**🕷️ 数据采集与逆向工程**
+
+![Scrapy](https://img.shields.io/badge/Scrapy-60A839?style=for-the-badge&logo=scrapy&logoColor=white)
+![Feapder](https://img.shields.io/badge/Feapder-2B5B84?style=for-the-badge&logo=python&logoColor=white)
+![DrissionPage](https://img.shields.io/badge/DrissionPage-1E90FF?style=for-the-badge&logo=googlechrome&logoColor=white)
+![curl_cffi](https://img.shields.io/badge/curl__cffi-073551?style=for-the-badge&logo=curl&logoColor=white)
+![Frida](https://img.shields.io/badge/Frida-EF6456?style=for-the-badge&logo=frida&logoColor=white)
+
+**🧠 计算机视觉与大模型工程**
+
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![Ultralytics YOLO](https://img.shields.io/badge/Ultralytics_YOLO-00FFFF?style=for-the-badge&logo=yolo&logoColor=black)
+![LLM & VLM](https://img.shields.io/badge/LLM_%26_VLM-412991?style=for-the-badge&logo=openai&logoColor=white)
+![MCP & AI Bot](https://img.shields.io/badge/MCP_%26_AI_Bot-10A37F?style=for-the-badge&logo=probot&logoColor=white)
+
+**🗄️ 数据存储与基建部署**
+
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ---
 
 ### 🔭 我正在做的事情 (What I Do)
 
-- ⚡ **Web 自动化与全网数据抓取**：攻克各种反爬机制（TLS 混淆、429 频率限制），擅长构建分布式爬虫系统与动态代理池管理。
-- ⚙️ **高性能 API 研发**：基于 FastAPI 搭建高并发的数据采集后端，支持异步任务队列与大数据量快速导出。
-- 👁️ **图像质量检测 (IQA)**：探索计算机视觉在图像瑕疵检测中的实际应用。
+- ⚡ **深度反爬逆向与分布式采集**：攻克 TLS 指纹校验、JS 混淆/无限 Debugger、Android JNI 与 Frida/RPC 黑盒逆向，以及算术/点选/滑块/轨迹等全类型验证码识别；基于 Scrapy / Feapder + Redis 构建高并发全球趋势与社媒采集管线。
+- 🛡️ **多模态 AI 内容风控与视觉质检**：结合 Ultralytics YOLO、OpenCV 与视觉/大语言模型（VLM/LLM），在 Linux GPU 集群部署自动化推理微服务，落地图像瑕疵检测（摩尔纹、色阶异常）与多级文本/图文合规过滤。
+- 🤖 **AIGC 自动化生产与 Agent 工作流**：构建文生/图生视频自动化生产管线（任务拆解、异常重试、音画校验与自动拼接），探索 MCP 协议与 AI Bot 编排，将重复性采集、研发与内容制作封装为标准化闭环。
+- 🚀 **高性能 API 与出海全栈工程**：基于 FastAPI 与 Next.js 构建高并发异步任务调度服务、内部 AI 工具聚合导航站及出海 SaaS 应用。
 
 ---
 
-
 ### 📫 如何联系我 (Connect with me)
 
-- 💬 可以和我聊聊：Python 异步编程、复杂反爬逆向、数据管道优化、或者图像处理。
-- 📧 Email: wuyanpython@gmail.com
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1500&color=009688&center=true&vCenter=true&width=400&lines=Thanks%EF%BC%81%EF%BC%81" alt="Typing SVG" />
-</p>
+- 💬 可以和我聊聊：**反爬逆向工程、高并发爬虫架构、多模态视觉/大模型审核管线、AI Bot 自动化工作流**。
+- 📧 Email: [2921027626@qq.com](2921027626@qq.com)
